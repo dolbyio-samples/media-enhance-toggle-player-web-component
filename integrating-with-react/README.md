@@ -12,7 +12,7 @@
     ```sh
     $ npm link
     ```
-    This creates an npm package on your machine called media-comparison-component. Note that package-name is taken from package.json, not from the directory name. You can read more about this [here](https://docs.npmjs.com/cli/v8/commands/npm-link/).
+    > This creates an npm package on your machine called media-comparison-component. Note that package-name is taken from package.json, not from the directory name. You can read more about this [here](https://docs.npmjs.com/cli/v8/commands/npm-link/).
 
 3. Create a sample React application using [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) in your desired location.
     ```sh
