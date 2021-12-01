@@ -157,13 +157,6 @@ export default class MediaComparison extends HTMLElement {
     subComponents.afterMedia.addEventListener("ended", () => {
       return this.endVideo(subComponents)
     });
-
-    // replace with videojs to hide controls.
-    // subComponents.afterMedia.addEventListener("volumechange", () => {
-    //   subComponents.afterMedia.volume = 1;
-    //   subComponents.afterMedia.muted = !this.showAfter;
-    //   subComponents.beforeMedia.muted = this.showAfter;
-    // });
   }
 }
 
