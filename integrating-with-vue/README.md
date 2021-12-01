@@ -1,5 +1,7 @@
 # Integrate the Media Comparison Component with Vue.js
 
+### How to Run After Cloning this Repository
+
 1. Go to the project's root directory and change directory to the web component npm package's directory.
     
     ```sh

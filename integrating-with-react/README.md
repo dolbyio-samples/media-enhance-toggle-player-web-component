@@ -1,10 +1,11 @@
 # Integrate the Media Comparison Component with React
 
-> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### How to Run After Cloning this Repository
 
-1. Clone the repository for this article and change directory to the web component npm package's directory
+1. Go to the project's root directory and change directory to the web component npm package's directory.
+    
     ```sh
-    $ git clone https://github.com/dolbyio-samples/media-enhance-toggle-player-web-component && cd npm-component
+    $ cd npm-component
     ```
 
 2. Create a symlink in your global `node_modules` folder
@@ -64,3 +65,5 @@
     ```sh
     $ npm start
     ```
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
